@@ -10,4 +10,5 @@
 ## Linear algebra
 - [Essence of linear algebra](https://www.youtube.com/watch?v=kjBOesZCoqc&list=PLZHQObOWTQDPD3MizzM2xVFitgF8hE_ab)
 - [Linear Algebra by Strang G.](http://www-math.mit.edu/~gs/) @ MIT
+- [Linear Algebra Through Computer Science Applications](http://codingthematrix.com/)
 - [Matrix Cookbook](https://archive.org/details/imm3274)
