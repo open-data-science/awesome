@@ -5,6 +5,7 @@
 - [Yandex SDA deeplearning 17](https://github.com/yandexdataschool/YSDA_deeplearning17) @ Yandex SDA
 - [CSC 2541 Fall 2016:
 Differentiable Inference and Generative Models](http://www.cs.toronto.edu/~duvenaud/courses/csc2541/index.html) @ University of Toronto
+- [CS 20SI: Tensorflow for Deep Learning Research](http://web.stanford.edu/class/cs20si/syllabus.html) @ Stanford
 
 
 ## We need to go deeper
