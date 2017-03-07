@@ -6,3 +6,8 @@
 - [Теория вероятностей для начинающих](https://ru.coursera.org/learn/probability-theory-basics) @ MIPT
 - [probability cheatsheet
 ](https://github.com/wzchen/probability_cheatsheet/blob/master/probability_cheatsheet.pdf)
+
+## Linear algebra
+- [Essence of linear algebra](https://www.youtube.com/watch?v=kjBOesZCoqc&list=PLZHQObOWTQDPD3MizzM2xVFitgF8hE_ab)
+- [Linear Algebra by Strang G.](http://www-math.mit.edu/~gs/) @ MIT
+- [Matrix Cookbook](https://archive.org/details/imm3274)
